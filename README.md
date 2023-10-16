@@ -1,3 +1,7 @@
-# Evaluating Large Language Models and Prompt Variants on the Task of Detecting Cease and Desist Violations in German Online Product Descriptions
+# KIVEDU
 
-This repository serves as an appendix to the original paper published at DataMode 23. Here, further visualizations from our experiments can be found.
+This is the public repository for the [KIVEDU](https://www.kivedu-projekt.de/de/) project.
+
+KIVEDU is a project which aspires to revolutionalize the enforcements of consumer rights in Germany through the use of Large-Language Models and other AI technologies. More information can be found at the [official project website](https://www.kivedu-projekt.de/de/)
+
+This repository contains further details from our research and appendices to publications.
